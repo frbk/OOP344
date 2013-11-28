@@ -1,7 +1,4 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
+
 #ifndef STUDENTRECORDDATE_H
 #define STUDENTRECORDDATE_H
 

@@ -1,7 +1,3 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
 #include <iostream>
 #include <fstream>
 #include <iomanip>

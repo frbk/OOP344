@@ -1,7 +1,3 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
 #ifndef SINGLELINKEDLIST_H
 #define SINGLELINKEDLIST_H
 

@@ -1,7 +1,3 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
 #include "Student.h"
 int Student::getAge(){
 	return Age;

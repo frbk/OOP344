@@ -1,7 +1,4 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
+
 #include "SingleLinkedList.h"
 
 #include <string.h>

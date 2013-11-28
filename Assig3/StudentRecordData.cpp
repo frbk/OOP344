@@ -1,7 +1,3 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
 
 #include <string.h>
 #include "StudentRecordData.h"

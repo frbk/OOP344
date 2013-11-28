@@ -1,7 +1,3 @@
-/*
-Fedor Barannik
-SIN:028-127-108
-*/
 //node
 #ifndef STUDENT_H 
 #define STUDENT_H
