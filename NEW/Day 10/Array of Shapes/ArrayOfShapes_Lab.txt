@@ -1,0 +1,5 @@
+Create a class that maintain an array of a combination of two dimention geometrical shapes like
+ square, rectangle, circle, equi-triangle, etc. The geometrical shapes are each described by a 
+ different class able to calculate the area and perimeter of the shape it describes. The shapes are
+ initialized by the constructor of the corresponding shape and a function getNameOfShape should 
+ return the name of the shape.
